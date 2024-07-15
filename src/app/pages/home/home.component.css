@@ -1,0 +1,15 @@
+.titulo-home h5{
+  justify-content: center;
+  color: aqua;
+  display: flex;
+}
+
+.titulo-home{
+  text-align: center;
+}
+
+
+.novedades{
+  color: rgb(167, 33, 155);
+}
+
